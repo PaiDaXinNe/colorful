@@ -1,3 +1,3 @@
 reason=ball-cowork-midround
-owed=1
-latest=2026-09-13T00:25:29
+owed=3
+latest=2026-09-13T00:26:34
