@@ -1,2 +1,3 @@
-owed=1
-latest=2026-09-16T17:27:05
+stop=owner-blocked-all
+owed=0
+latest=-
