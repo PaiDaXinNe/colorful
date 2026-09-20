@@ -1,3 +1,2 @@
-stop=manual-test
-owed=0
-latest=-
+owed=5
+latest=2026-09-20T14:56:17
