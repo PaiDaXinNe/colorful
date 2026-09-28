@@ -1,3 +1,3 @@
 owed=1
-latest=2026-09-28T21:39:28
-items=need:COL-1934:java-cc
+latest=2026-09-28T22:03:38
+items=q:COL-1935:web-cc
