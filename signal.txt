@@ -1,3 +1,3 @@
-owed=2
-latest=2026-09-29T22:40:31
-items=done:COL-1974:cowork-check,done:COL-1974:java-cc
+owed=1
+latest=2026-09-29T22:55:10
+items=done:COL-1974:java-cc
