@@ -1,3 +1,3 @@
-owed=2
-latest=2026-09-29T13:35:32
-items=q:COL-1944:web-cc,q:COL-1944:web-cc
+owed=1
+latest=2026-09-29T13:40:29
+items=done:COL-1945:java-cc
