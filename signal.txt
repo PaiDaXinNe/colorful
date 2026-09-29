@@ -1,3 +1,3 @@
-owed=4
-latest=2026-09-29T16:06:03
-items=q:COL-1953:java-cc,q:COL-1953:java-cc,q:COL-1952:java-cc,q:COL-1952:java-cc
+owed=2
+latest=2026-09-29T16:04:48
+items=q:COL-1952:java-cc,q:COL-1952:java-cc
