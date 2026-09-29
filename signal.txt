@@ -1,3 +1,3 @@
-owed=2
-latest=2026-09-30T02:01:43
-items=done:COL-1977:java-cc,done:COL-1977:flutter-cc
+owed=1
+latest=2026-09-30T02:09:00
+items=done:COL-1976:flutter-cc
