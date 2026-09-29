@@ -1,3 +1,3 @@
-owed=2
-latest=2026-09-29T14:46:27
-items=q:COL-1950:web-cc,q:COL-1950:web-cc
+owed=1
+latest=2026-09-29T15:00:24
+items=done:COL-1950:py-test-cc
