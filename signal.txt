@@ -1,3 +1,3 @@
 owed=1
-latest=2026-09-29T14:06:05
-items=done:COL-1950:web-cc
+latest=2026-09-29T14:08:23
+items=blk:COL-1950:cowork-check
