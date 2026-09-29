@@ -1,3 +1,3 @@
 owed=2
-latest=2026-09-29T20:10:17
-items=blk:COL-1968:web-cc,done:COL-1968:web-cc
+latest=2026-09-29T20:10:57
+items=blk:COL-1968:java-cc,blk:COL-1968:java-cc
