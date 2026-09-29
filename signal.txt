@@ -1,3 +1,3 @@
 owed=1
-latest=2026-09-29T20:42:01
-items=q:COL-1972:web-cc
+latest=2026-09-29T20:44:50
+items=done:COL-1972:web-cc
