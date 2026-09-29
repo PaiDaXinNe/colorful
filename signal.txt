@@ -1,3 +1,3 @@
 owed=1
-latest=2026-09-29T16:39:18
-items=done:COL-1956:java-cc
+latest=2026-09-29T16:40:53
+items=done:COL-1956:cowork-check
