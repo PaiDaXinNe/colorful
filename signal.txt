@@ -1,3 +1,2 @@
-owed=1
-latest=2026-10-01T00:01:39
-items=msg:COL-1830:nightly-watchdog
+owed=0
+latest=2026-10-01T00:19:20
