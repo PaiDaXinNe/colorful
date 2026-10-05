@@ -1,3 +1,3 @@
-owed=1
-latest=2026-10-05T18:04:18
-items=done:COL-1830:java-cc
+owed=2
+latest=2026-10-05T18:05:47
+items=blk:COL-1987:java-cc,blk:COL-1987:java-cc
