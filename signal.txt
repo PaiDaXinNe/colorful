@@ -1,3 +1,3 @@
-owed=1
-latest=2026-10-05T21:46:37
-items=msg:COL-1992:-
+owed=2
+latest=2026-10-05T21:46:43
+items=done:COL-1994:cowork-check,msg:COL-1992:-
