@@ -1,3 +1,3 @@
-owed=2
-latest=2026-10-05T18:15:29
-items=msg:COL-1986:-,msg:COL-1986:-
+owed=1
+latest=2026-10-05T18:24:34
+items=done:COL-1986:java-cc
